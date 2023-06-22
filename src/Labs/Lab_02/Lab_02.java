@@ -1,4 +1,5 @@
-package Labs.Lab_02;//Author: Marisa Young
+package Labs.Lab_02;
+//Author: Marisa Young
 //Date: April 6, 2023
 //Description: Lab 02 - Write a program that calculates mileage reimbursement for a salesperson at a rate of $0.35 per mile. 
 
